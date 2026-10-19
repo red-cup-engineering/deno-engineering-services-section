@@ -3,8 +3,7 @@
   "version": "0.1.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-code-engineering-services-section.git",
-    "directory": "services/javascript-engineering-services-section/services/deno-services-section"
+    "url": "git+https://github.com/red-cup-engineering/deno-services-section.git"
   },
   "type": "module",
   "description": "Authoritative home for services whose execution, tooling, or deployment contract depends on the Deno runtime.",
