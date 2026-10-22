@@ -9,5 +9,10 @@
   "description": "Authoritative home for services whose execution, tooling, or deployment contract depends on the Deno runtime.",
   "files": [
     "README.md"
-  ]
+  ],
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
