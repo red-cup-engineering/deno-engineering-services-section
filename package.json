@@ -1,9 +1,9 @@
 {
-  "name": "@red-cup-engineering/deno-services-section",
+  "name": "@red-cup-engineering/deno-engineering-services-section",
   "version": "0.1.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/deno-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/deno-engineering-services-section.git"
   },
   "type": "module",
   "description": "Authoritative home for services whose execution, tooling, or deployment contract depends on the Deno runtime.",
