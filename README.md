@@ -1,4 +1,4 @@
-# Deno services section
+# Deno Engineering
 
 This is the authoritative home for live services whose execution, tooling, or
 deployment contract depends on Deno.
@@ -20,6 +20,6 @@ section owns the Deno-specific implementation and operating knowledge.
 - The repository-root `deno.jsonc` and `deno.lock` coordinate the entire
   workspace and remain at repository root.
 - General JavaScript and Node.js services remain direct holdings of the parent
-  `javascript-services-section`.
+  `javascript-engineering-services-section`.
 - Historical records keep their original paths as evidence; they do not define
   the current service topology.
