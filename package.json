@@ -1,5 +1,6 @@
 {
   "name": "@red-cup-engineering/deno-services-section",
+  "private": true,
   "version": "0.1.1",
   "repository": {
     "type": "git",
